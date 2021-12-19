@@ -1,14 +1,9 @@
-<img width="250" height="250" align="right" src="https://github.com/LLY661/lly661.github.io/blob/master/photo.jpeg?raw=true"/>
-<br /> 
+<img width="250" height="250" src="https://github.com/LLY661/lly661.github.io/blob/master/photo.jpeg?raw=true"/>
 
 
 Hi I'm a research associate at [Lloyd’s Register Foundation Institute for the Public Understanding of Risk](https://ipur.nus.edu.sg/) and 
 data scientist at [Data Innovation Group](https://www.datainnovationgroup.org/)
 
-<br /> 
-<br /> 
-<br /> 
-<br /> 
 
 
 ## Work Experience
