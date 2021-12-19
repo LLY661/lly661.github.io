@@ -58,13 +58,18 @@ Management: `Kanban Methodology` `Scrum`
 
 ## Education
 
-### Carnegie Mellon University
-->_2014-2016_
-**Masters of Computer Science**, _Pittsburgh, Pennsylvania_
+### National University of Singapore   
+**2018-2020, Singapore**   
+_Master of Science (Statistics), Department of Statistics Applied Probability_   
 
-### The State University of NY
-->_2010 - 2014_
-**Bachelor of Engineering**,  _Oswego, New York_
+
+### Wuhan University   
+**2015-2018, China**   
+_Bachelor of Arts (French), School of Foreign Languages and Literature_ 
+
+### Central China Normal University   
+**2014-2018, China**   
+_Bachelor of Management(Information Management and Information System), School of Information Management_ 
 
 ---
 
