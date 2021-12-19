@@ -1,4 +1,4 @@
-# LIU Luyao
+
 A research associate at [Lloyd’s Register Foundation Institute for the Public Understanding of Risk](https://ipur.nus.edu.sg/) and 
 data scientist at [Data Innovation Group](https://www.datainnovationgroup.org/)
 
@@ -60,4 +60,4 @@ Management: `Kanban Methodology` `Scrum`
 
 ---
 
-||: Email: **<katemiller@gmail.com>** || Phone: **+123 456 789** || Website: **[katemiller.com](katemiller.com)** :||
+||: Email: **<luyaoliu@u.nus.edu>** || Phone: **+65 93469135** || Website: **[katemiller.com](katemiller.com)** :||
