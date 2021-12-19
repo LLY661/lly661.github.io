@@ -1,4 +1,4 @@
-# **LIU Luyao**
+# LIU Luyao
 A research associate at [Lloyd’s Register Foundation Institute for the Public Understanding of Risk](https://ipur.nus.edu.sg/) and 
 data scientist at [Data Innovation Group](https://www.datainnovationgroup.org/)
 
