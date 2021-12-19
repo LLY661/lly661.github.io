@@ -1,4 +1,4 @@
-<img width="250" height="250" align="right" src="https://github.com/LLY661/lly661.github.io/blob/master/photo.jpeg?raw=true"/>
+<img width="200" height="200" align="right" src="https://github.com/LLY661/lly661.github.io/blob/master/photo.jpeg?raw=true"/>
 <br /> 
 
 
