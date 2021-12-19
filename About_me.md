@@ -52,25 +52,25 @@ data scientist at [Data Innovation Group](https://www.datainnovationgroup.org/)
 
 ## Skills
 
-Technical: `Python` `Go` `Microservices Architecture`
+Technical: `R` `Python` `SQL` `Qlik` `PowerBI`
 
-Management: `Kanban Methodology` `Scrum`
+Language: Chinese, English, French
 
 ## Education
 
-### National University of Singapore   
-**2018-2020, Singapore**   
+**National University of Singapore**      
+2018-2020, Singapore      
 _Master of Science (Statistics), Department of Statistics Applied Probability_   
 
 
-### Wuhan University   
-**2015-2018, China**   
+**Wuhan University**      
+2015-2018, China  
 _Bachelor of Arts (French), School of Foreign Languages and Literature_ 
 
-### Central China Normal University   
-**2014-2018, China**   
+**Central China Normal University**   
+2014-2018, China  
 _Bachelor of Management(Information Management and Information System), School of Information Management_ 
 
 ---
 
-||: Email: **<luyaoliu@u.nus.edu>** || Phone: **+65 93469135** :||
+|| Email: **<luyaoliu@u.nus.edu>** || Phone: **+65 93469135** ||
