@@ -1,3 +1,6 @@
+![Luyao](https://github.com/LLY661/lly661.github.io/blob/master/photo.jpeg?raw=true "Luyao")
+
+
 
 Hi I'm a research associate at [Lloyd’s Register Foundation Institute for the Public Understanding of Risk](https://ipur.nus.edu.sg/) and 
 data scientist at [Data Innovation Group](https://www.datainnovationgroup.org/)
