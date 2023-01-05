@@ -1,6 +1,6 @@
 title: "LIU LUYAO"
 author: "Liu Luyao"
-description: "Institute for the Public Understanding of Risk"
+description: "To make each day count"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Team, url: "https://www.datainnovationgroup.org/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Mail, icon: envelope, url: "mailto:luyaoliu@u.nus.edu"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/Luyao03158962"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
