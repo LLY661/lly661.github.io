@@ -68,4 +68,3 @@ _Bachelor of Management(Information Management and Information System), School o
 
 ---
 
-|| Email: **<luyaoliu@u.nus.edu>** || Phone: **+65 93469135** ||
